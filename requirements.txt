@@ -20,7 +20,7 @@ path==13.1.0
 path.py==12.4.0
 pipenv==2020.6.2
 pluggy==0.13.1
-py==1.8.1
+py==1.10.0
 pyparsing==2.4.7
 pytest==5.4.3
 pytest-fixture-config==1.7.0
